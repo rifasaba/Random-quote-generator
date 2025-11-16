@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.container {
+    font-family: "Momo Signature", cursive;
+    background: #271539;
+    background: linear-gradient(100deg, rgba(39, 21, 57, 1) 0%, rgba(145, 91, 164, 1) 50%, rgba(194, 100, 155, 1) 100%);
+}
